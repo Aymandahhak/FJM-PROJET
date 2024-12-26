@@ -1,0 +1,24 @@
+[33m43e4570[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m43e4570[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{1}: commit (merge): i fix the conflicts
+[33m094619b[m HEAD@{2}: commit: i changed the name of my index to indexAdmin
+[33m8c2f3aa[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{3}: merge origin/projet-entaraineur: updating HEAD
+[33m8c2f3aa[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{4}: merge origin/projet-entaraineur: updating HEAD
+[33m8c2f3aa[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{5}: reset: moving to HEAD
+[33m8c2f3aa[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{6}: reset: moving to HEAD
+[33m8c2f3aa[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{7}: pull origin main: Fast-forward
+[33m3ed9f70[m HEAD@{8}: checkout: moving from main to main
+[33m3ed9f70[m HEAD@{9}: checkout: moving from main to main
+[33m3ed9f70[m HEAD@{10}: checkout: moving from main to main
+[33m3ed9f70[m HEAD@{11}: checkout: moving from main to main
+[33m3ed9f70[m HEAD@{12}: checkout: moving from main to main
+[33m3ed9f70[m HEAD@{13}: commit: Your commit message describing the changes
+[33m6ce3da3[m HEAD@{14}: pull origin main: Merge made by the 'ort' strategy.
+[33mbb6ebb9[m HEAD@{15}: commit: modification sur index.php
+[33m82aee69[m HEAD@{16}: commit: modification on index.php
+[33m8efda7a[m HEAD@{17}: checkout: moving from 694ebd8f2af0b5a3dd4be354d956b11bccacd41c to main
+[33m694ebd8[m HEAD@{18}: commit: 27/11/2024 modification
+[33m4950a4e[m[33m ([m[1;31morigin/Home_préinscription[m[33m)[m HEAD@{19}: checkout: moving from main to 4950a4e
+[33m8efda7a[m HEAD@{20}: reset: moving to HEAD
+[33m8efda7a[m HEAD@{21}: commit (merge): Reinitialized git repository and added changes
+[33m42e3a7a[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{22}: checkout: moving from master to main
+[33m42e3a7a[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{23}: commit (initial): Replace all files with new content
